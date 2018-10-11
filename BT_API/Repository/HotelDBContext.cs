@@ -8,7 +8,7 @@ using Domain;
 
 namespace Repository
 {
-    class HotelDBContext : DbContext
+    public class HotelDBContext : DbContext
     {
         public HotelDBContext(): base("HotelConnectionString")
         {
