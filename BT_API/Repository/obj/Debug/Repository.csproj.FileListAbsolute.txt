@@ -10,3 +10,17 @@ D:\Project\BT_API\Repository\bin\Debug\EntityFramework.SqlServer.xml
 D:\Project\BT_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 D:\Project\BT_API\Repository\obj\Debug\Repository.dll
 D:\Project\BT_API\Repository\obj\Debug\Repository.pdb
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\obj\Debug\Repository.dll
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\obj\Debug\Repository.pdb
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\Repository.dll.config
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\Repository.dll
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\Repository.pdb
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\Domain.dll
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\EntityFramework.dll
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\Domain.pdb
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\EntityFramework.xml
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\obj\Debug\Repository.Migrations.createdb.resources
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache

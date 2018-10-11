@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class Customer
-    {
-        [Key]
-        [StringLength(12)]
-        public string CMND { get; set; }
-        [Required]
-        public string fullName { get; set; }
-        public DateTime DOB { get; set; }        
-    }
+    //public class Customer
+    //{
+    //    [Key]
+    //    [StringLength(12)]
+    //    public string CMND { get; set; }
+    //    [Required]
+    //    public string fullName { get; set; }
+    //    public DateTime DOB { get; set; }        
+    //}
 
     public class Room
     {
@@ -30,12 +30,17 @@ namespace Domain
     {
         [Key]
         public string BookingID { get; set; }
+        [Required]
         public string CMND { get; set; }
+        [Required]
+        public string CustomerName { get; set; }
+        
         public string RoomID { get; set; }
+        [Required]
         public DateTime CheckIn { get; set; }
+        [Required]
         public DateTime CheckOut { get; set; }
 
-        public virtual Customer Customer { get; set; }
         public virtual ICollection<Room> Rooms { get; set; }
     }
 }

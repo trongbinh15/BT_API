@@ -3,3 +3,8 @@ D:\Project\BT_API\Domain\bin\Debug\Domain.pdb
 D:\Project\BT_API\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 D:\Project\BT_API\Domain\obj\Debug\Domain.dll
 D:\Project\BT_API\Domain\obj\Debug\Domain.pdb
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Domain\bin\Debug\Domain.dll
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Domain\bin\Debug\Domain.pdb
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Domain\obj\Debug\Domain.dll
+C:\Users\NGUYENTRONGBINH\Desktop\BT_API\BT_API\Domain\obj\Debug\Domain.pdb
