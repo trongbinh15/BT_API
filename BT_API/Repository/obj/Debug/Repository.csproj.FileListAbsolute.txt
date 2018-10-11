@@ -1,0 +1,12 @@
+D:\Project\BT_API\Repository\bin\Debug\Repository.dll.config
+D:\Project\BT_API\Repository\bin\Debug\Repository.dll
+D:\Project\BT_API\Repository\bin\Debug\Repository.pdb
+D:\Project\BT_API\Repository\bin\Debug\Domain.dll
+D:\Project\BT_API\Repository\bin\Debug\EntityFramework.dll
+D:\Project\BT_API\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\BT_API\Repository\bin\Debug\Domain.pdb
+D:\Project\BT_API\Repository\bin\Debug\EntityFramework.xml
+D:\Project\BT_API\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\BT_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Project\BT_API\Repository\obj\Debug\Repository.dll
+D:\Project\BT_API\Repository\obj\Debug\Repository.pdb

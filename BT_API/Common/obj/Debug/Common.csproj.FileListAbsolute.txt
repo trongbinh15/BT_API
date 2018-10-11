@@ -1,0 +1,5 @@
+D:\Project\BT_API\Common\bin\Debug\Common.dll
+D:\Project\BT_API\Common\bin\Debug\Common.pdb
+D:\Project\BT_API\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\BT_API\Common\obj\Debug\Common.dll
+D:\Project\BT_API\Common\obj\Debug\Common.pdb

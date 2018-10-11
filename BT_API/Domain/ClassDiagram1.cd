@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domain.Customer">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAACiAAQAAAAAAAgCAAEAAAAAAggAAAAAAAIAA=</HashCode>
+      <FileName>Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Room">
+    <Position X="3.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAACAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Outlet">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAYAAAAAACAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Bed">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAABAACAQAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Appointment">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAQEEAgAQAAAAEQAAAAAAAA=</HashCode>
+      <FileName>Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
