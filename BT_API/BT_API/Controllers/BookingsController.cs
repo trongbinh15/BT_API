@@ -136,6 +136,7 @@ namespace BT_API.Controllers
             newBooking.CheckOut = ngaytra;
             newBooking.CMND = cmnd;
             newBooking.CustomerName = hoten;
+            newBooking.RoomID = listRoom[0].RoomID;
 
             if (listBooking != null)
             {
@@ -165,6 +166,31 @@ namespace BT_API.Controllers
             
 
             return true;
+        }
+
+        // GET: api/Reservations/cmnd/{cmnd}
+        [ResponseType(typeof(Booking))]
+        [Route("api/Reservations/cmnd/{cmnd}")]
+        public IHttpActionResult Reservation(string cmnd)
+        {
+            var items = db.Bookings.Where(s => s.CMND == cmnd);
+            if (items.Count() == 0)
+            {
+                return NotFound();
+            }
+
+            var result = items.Select(r => new {
+                r.BookingID,
+                r.CheckIn,
+                r.CheckOut,
+                r.CMND,
+                r.CustomerName,
+                r.RoomID,
+                rentedDays = (r.CheckOut - r.CheckIn).TotalDays,
+                total = (r.CheckOut - r.CheckIn).TotalDays * 500                
+            });
+            return Ok(result);
+
         }
 
         protected override void Dispose(bool disposing)
